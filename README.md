@@ -1,1 +1,1 @@
-Copy or move "InfIteration" from the rar file to Noita mod folder.
+Copy or move "InfIteration" from zip file to Noita mod folder.
