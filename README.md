@@ -1,2 +1,1 @@
-# No_Iteration_limit_mod_for_Noita
-A mod that lets you copy infinitely with divides.
+Copy or move "InfIteration" from the rar file to Noita mod folder.
